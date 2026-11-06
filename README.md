@@ -4,6 +4,25 @@ Aplicativo desktop para Windows que encontra **duplicados exatos** com SHA-256 e
 por tipo, por período ou por regras, sempre com prévia, confirmação, histórico e Desfazer.
 Nenhum arquivo é excluído ou sobrescrito.
 
+## Telas
+
+> Capturas feitas com uma pasta de exemplo, com arquivos e nomes fictícios.
+
+### Duplicados exatos
+Análise somente leitura: indicadores da pasta e os grupos de arquivos idênticos, mesmo com nomes diferentes.
+
+![Tela de duplicados exatos](docs/imagens/01_duplicados.png)
+
+### Organizar — prévia
+Antes de mover qualquer arquivo, a prévia mostra o local atual e o novo local de cada um.
+
+![Tela de prévia da organização](docs/imagens/02_organizar_previa.png)
+
+### Histórico e Desfazer
+Toda organização fica registrada e pode ser desfeita, arquivo por arquivo.
+
+![Tela de histórico](docs/imagens/03_historico.png)
+
 ## O que esta versão faz
 
 - Seleção de pasta com bloqueio de pastas do sistema (Windows, Program Files, AppData) e da raiz de unidades.
