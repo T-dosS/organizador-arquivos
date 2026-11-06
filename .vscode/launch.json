@@ -1,0 +1,1 @@
+﻿{"version": "0.2.0", "configurations": [{"name": "Organizador ACME", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/lancador_app.py", "console": "integratedTerminal"}]}

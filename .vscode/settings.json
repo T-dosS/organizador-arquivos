@@ -1,0 +1,1 @@
+﻿{"python.defaultInterpreterPath": "${env:LOCALAPPDATA}\\organizador_acme\\venv\\Scripts\\python.exe", "python.testing.pytestEnabled": true, "python.testing.pytestArgs": ["tests"], "files.encoding": "utf8"}
